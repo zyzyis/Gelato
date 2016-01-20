@@ -18,7 +18,7 @@ Launch NADEEF using CLI
 [![Demo video of NADEEF](http://img.youtube.com/vi/afZZ-iYXRUM/0.jpg)](http://www.youtube.com/watch?v=afZZ-iYXRUM)
 ### Goals of NADEEF
 
-**To be only tool people use in Data Cleaning**
+**To be only tool people need to use in Data Cleaning**
 
 ### License
 
@@ -28,9 +28,4 @@ NADEEF is released under the terms of the [MIT License](http://opensource.org/li
 
 For any issues or enhancement please feel free to mail me [zyzyis@gmail.com](mailto:siyin@qf.org.qa). 
 
-### Acknowledgement
-
-We would like to thank JetBrains' support for their wonderful IntelliJ IDEA product. We are using it through all the development of NADEEF.
-
-![IntelliJ](https://www.jetbrains.com/idea/docs/logo_intellij_idea.png)
 
