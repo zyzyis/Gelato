@@ -1,13 +1,13 @@
 
-# NADEEF <img src="https://travis-ci.org/Qatar-Computing-Research-Institute/NADEEF.png" />  [![Stories in Ready](https://badge.waffle.io/qatar-computing-research-institute/nadeef.png?label=ready&title=Ready)](https://waffle.io/qatar-computing-research-institute/nadeef)
+# NADEEF <img src="https://travis-ci.org/Qatar-Computing-Research-Institute/NADEEF.png" /> 
 
 ### What is NADEEF?
 
-NADEEF (or ''clean'' in Arabic, نظيف) is a generalized data cleaning system developed by the data analytic group at [Qatar Computing Research Institute](da.qcri.org). 
+NADEEF is a generalized data cleaning system originally developed when I was working in the Data Analytic group at [Qatar Computing Research Institute](da.qcri.org). I am still now maintaining this repository after I left the company.
 
 ### See it in Action
 
-Launch NADEEF using command 
+Launch NADEEF using CLI 
 ```
     Usage: nadeef.sh [OPTIONS]
     Options are:
@@ -15,23 +15,10 @@ Launch NADEEF using command
         dashboard : start the NADEEF dashboard.
 ```
 
-**A demo page can be accessed via [here](http://bit.ly/nadeef0).**
-
-More details on the instructions can be found in the [User Guide](https://github.com/daqcri/NADEEF/wiki/User-Guide).
-
+[![Demo video of NADEEF](http://img.youtube.com/vi/afZZ-iYXRUM/0.jpg)](http://www.youtube.com/watch?v=afZZ-iYXRUM)
 ### Goals of NADEEF
 
-**Being a commodity data cleaning system, NADEEF aims to be extensible, generic and easy-to-deploy.**
-
-Most existing data cleaning methods and systems, either in industry or academia,
-employ different types of data quality rules in isolation, each time a new data cleaning problem arises or
-a new type of rules is considered, practitioners either build a new system from scratch or go through a painful
-process of customizing an existing tool. The NADEEF team designed a new data cleaning system that distinguishes
-between a programming interface and a core to achieve generality and extensibility.
-
-### Publications
-
-http://da.qcri.org/publications
+**To be only tool people use in Data Cleaning**
 
 ### License
 
@@ -39,15 +26,11 @@ NADEEF is released under the terms of the [MIT License](http://opensource.org/li
 
 ### Contact
 
-For any issues or enhancement please use the [issue pages](https://github.com/daqcri/NADEEF/issues) in Github, 
-or contact [siyin@qf.org.qa](mailto:siyin@qf.org.qa). We will try our best to help you sort it out.
+For any issues or enhancement please feel free to mail me [zyzyis@gmail.com](mailto:siyin@qf.org.qa). 
 
 ### Acknowledgement
 
 We would like to thank JetBrains' support for their wonderful IntelliJ IDEA product. We are using it through all the development of NADEEF.
 
 ![IntelliJ](https://www.jetbrains.com/idea/docs/logo_intellij_idea.png)
-
-
-[![githalytics.com alpha](https://cruel-carlota.gopagoda.com/52403ffdf07e8a16ffb06c7ab492e5df "githalytics.com")](http://githalytics.com/daqcri/NADEEF)
 
